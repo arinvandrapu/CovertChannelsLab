@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Covert Storage Channel - Sender
 
